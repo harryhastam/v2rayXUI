@@ -148,6 +148,7 @@
  بعد از جواب دادن به سوالات بالا پیام تاییدی شبیه به این متن میبینید
  
  set username and password success
+ 
  set port xxxx success
 
 
