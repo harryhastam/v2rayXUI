@@ -219,4 +219,52 @@
 
  ## مرحله هشت: استفاده از کانفیگ‌ها
 
- https://qrcode-decoder.com/
+ لیستی از نرم افزارهای کلاینت برای سیستم عامل‌های مختلف
+
+ اپ های زیر رو دانلود کنید و نصب داشته باشید
+ [ روی لینک کلیک کنید، ممکنه فیلتر باشن ]
+
+ ### **[ iOS ]**
+ [ 1: NapsterNetV iOS ][NapsterNetV]
+
+ [ 2: ShadowLink iOS ][ShadowLink]
+
+ [ 3: Fair VPN iOS ][Fair VPN]
+
+ [ 4: Shadowrocket iOS ][Shadowrocket]
+
+ ### **[ Android ]**
+ [ 1: V2RayNG Android ][v2rayNG]
+
+ [ 2: XRAY VPN Android ][XRAY]
+
+ [ 3: Matsuri Android ][Matsuri]
+
+ [ 4: AnXray Android ][AnXray]
+
+### **[ MacOS ]**
+ [ 1: qv2ray MacOS ][qv2ray Mac]
+
+ [ 2: V2RayX MacOS ][V2RayX]
+
+ ### **[ Windows ]**
+ [ 1: v2rayN Windows ][v2rayN]
+
+ [ 2: nekoray Windows ][nekoray]
+
+ [ 3: qv2ray Windows ][qv2ray Windows]
+
+
+[NapsterNetV]: https://apps.apple.com/us/app/napsternetv/id1629465476
+[ShadowLink]: https://apps.apple.com/us/app/shadowlink-shadowsocks-vpn/id1439686518
+[Fair VPN]: https://apps.apple.com/us/app/fair-vpn/id1533873488
+[Shadowrocket]: https://apps.apple.com/us/app/shadowrocket/id932747118
+[v2rayNG]: https://play.google.com/store/apps/details?id=com.v2ray.ang
+[XRAY]: https://play.google.com/store/apps/details?id=vpn.v2ray.xray
+[Matsuri]: https://play.google.com/store/apps/details?id=moe.matsuri.lite
+[AnXray]: https://f-droid.org/repo/io.nekohasekai.anXray_175.apk
+[qv2ray Mac]: https://qv2ray.net/getting-started/step2.html#download-v2ray-core-files
+[V2RayX]: https://github.com/Cenmrev/V2RayX/releases/download/v1.5.1/V2RayX.app.zip
+[v2rayN]: https://github.com/2dust/v2rayN/releases
+[nekoray]: https://github.com/MatsuriDayo/nekoray/releases
+[qv2ray Windows]: https://github.com/v2fly/v2ray-core/releases
