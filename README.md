@@ -40,10 +40,12 @@
  **راه دوم**
  دانلود و استفاده از یکی از نرم افزارهای زیر
  (پیشنهاد میکنم از Putty استفاده کنید)
-
- [Putty Download Link `soft98`](https://dl2.soft98.ir/soft/p-q/PuTTY.0.77.rar?1)
  
- [XSHELL Download Link `soft98`](https://dl2.soft98.ir/soft/x-y-z/Xshell.5.0.0835.rar?1)
+ [Putty Download Link `putty`][putty] 
+
+ [Putty Download Link `soft98`][softputty]
+ 
+ [XSHELL Download Link `soft98`][softxshell]
  
  #### در مک و لینوکس
  در مک و لینوکس کافیه با استفاده از نرم افزار ترمینال با کامند زیر وارد سرور بشوید
@@ -255,6 +257,9 @@
  [ 3: qv2ray Windows ][qv2ray Windows]
 
 
+[putty]: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+[softputty]: https://dl2.soft98.ir/soft/p-q/PuTTY.0.77.rar?1
+[softxshell]: https://dl2.soft98.ir/soft/x-y-z/Xshell.5.0.0835.rar?1
 [NapsterNetV]: https://apps.apple.com/us/app/napsternetv/id1629465476
 [ShadowLink]: https://apps.apple.com/us/app/shadowlink-shadowsocks-vpn/id1439686518
 [Fair VPN]: https://apps.apple.com/us/app/fair-vpn/id1533873488
